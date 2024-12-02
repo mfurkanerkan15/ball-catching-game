@@ -1,4 +1,4 @@
-# 🎮 Catch the Ball Game
+# 🎮 Ball Catching Game
 
 **Catch the Ball Game** is a fun 2D football-themed game where two legendary players, **Messi** and **Ronaldo**, compete to catch the ball. The first player to reach **10 points** wins the game!
 
