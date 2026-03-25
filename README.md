@@ -28,3 +28,7 @@
 
 ## 🎨 Visuals
 The game features a simple 2D interface with characters representing **Messi** and **Ronaldo**.
+
+
+<img width="744" height="667" alt="screenshot" src="https://github.com/user-attachments/assets/dbcb737d-579f-42b4-a3e6-1365a9ee43ff" />
+
